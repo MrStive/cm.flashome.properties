@@ -1,0 +1,12 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/cm/flashome/properties/api/ApiUtil.java
+src/main/java/cm/flashome/properties/api/DemoApi.java
+src/main/java/cm/flashome/properties/api/RoleApi.java
+src/main/java/cm/flashome/properties/api/UserApi.java
+src/main/java/cm/flashome/properties/dto/AddressDTO.java
+src/main/java/cm/flashome/properties/dto/CreateRoleDTO.java
+src/main/java/cm/flashome/properties/dto/CreateUser.java
+src/main/java/cm/flashome/properties/dto/DemoDTO.java
+src/main/java/cm/flashome/properties/dto/UserDTO.java
